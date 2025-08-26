@@ -62,7 +62,7 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vorlun&theme=react" alt="summary"/>
+    <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vorlun&theme=react" alt="summary"/>
   </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vorlun&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
