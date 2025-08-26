@@ -2,16 +2,16 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Humoyun+Ruzimuratov;aka+Vorlun;Fullstack+Developer;NodeJS+|+ReactJS&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yow,+Whats+up!+👋;I'm+Humoyun+Ruzimuratov;Vorlun;Fullstack+Developer;NodeJS+|+ReactJS&center=true&size=30">
   </a>
 </h1>
 
 <h3 align="center">🚀 Fullstack Developer | Logic & Creativity Lover | Fast Learner</h3>
 
 <h5 align="center">
-  <code><a href="https://leetcode.com/u/humoyun_one/" title="LeetCode Profile"><img width="22" src="images/leetcode.webp"> LeetCode</a></code>
-  <code><a href="https://t.me/vorlun" title="Telegram"><img width="22" src="images/telegram.webp"> Telegram</a></code>
-  <code><a href="https://www.instagram.com/humoyun_one/" title="Instagram"><img width="22" src="images/instagram.png"> Instagram</a></code>
+  <code><a href="https://leetcode.com/u/humoyun_one/" title="LeetCode Profile"><img width="16" src="images/leetcode.webp"> LeetCode</a></code>
+  <code><a href="https://t.me/vorlun" title="Telegram"><img width="16" src="images/telegram.webp"> Telegram</a></code>
+  <code><a href="https://www.instagram.com/humoyun_one/" title="Instagram"><img width="16" src="images/instagram.png"> Instagram</a></code>
 </h5>
 
 ---
@@ -57,7 +57,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Vorlun&theme=react&border=61dafb&hide_border=true" alt="streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vorlun&theme=react&border=61dafb&hide_border=true" alt="streak"/>
     <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Vorlun&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="stats"/>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -80,15 +80,8 @@
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Vorlun/audio_api" title="Audio API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vorlun&repo=audio_api&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Vorlun/one_restaurant" title="One Restaurant"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vorlun&repo=one_restaurant&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
   <a align="left" href="https://github.com/Vorlun/speach_command_recognizer" title="Speech Command Recognizer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vorlun&repo=speach_command_recognizer&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Vorlun/one-lans" title="One-Lans"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vorlun&repo=one-lans&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Vorlun/one_restaurant" title="One Restaurant"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vorlun&repo=one_restaurant&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
